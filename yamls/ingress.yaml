@@ -22,4 +22,4 @@ spec:
          service:
            name: nginx
            port:
-             number: 443
+             name: nginx
