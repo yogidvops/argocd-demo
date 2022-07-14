@@ -10,7 +10,7 @@ spec:
   tls:
   - hosts:
       - webserver.k8s.info
-    secretName: ingress-local-tls-minica
+    secretName: ingress-local-tls
   rules:
   - host: webserver.k8s.info
     http:
